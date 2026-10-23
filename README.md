@@ -9,7 +9,9 @@ I love exploring data, uncovering insights, and turning numbers into meaningful 
 🎯 Always curious, always learning!
 
 <p align="center">
-  <img src="DIRECT_GIF_URL" width="180" alt="Pixel character waving hello">
+  <img src="./hello-girl.gif"
+       width="150"
+       alt="Pixel-art girl waving hello">
 </p>
 
 💖 Thanks for visiting my profile!
