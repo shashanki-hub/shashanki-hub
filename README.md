@@ -9,7 +9,7 @@ I love exploring data, uncovering insights, and turning numbers into meaningful 
 🎯 Always curious, always learning!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Developer coding animation"/>
+  <img src="DIRECT_GIF_URL" width="180" alt="Pixel character waving hello">
 </p>
 
 💖 Thanks for visiting my profile!
